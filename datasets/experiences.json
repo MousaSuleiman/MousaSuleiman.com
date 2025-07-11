@@ -1,35 +1,3 @@
-{
-  "experience": [
-    {
-      "company": "IPO Solutions",
-      "position": "Development Team Lead",
-      "start": "Feb 2024",
-      "end": "Present",
-      "location": "Bruchsal, Germany",
-      "workType": "Hybrid",
-      "description": "Lead a team of engineers delivering scalable PHP services. Set architecture standards, perform code reviews, and coordinate DevOps automation to ensure smooth releases.",
-      "responsibilities": [
-        "Manage a team of developers and coordinate sprint planning.",
-        "Review code and enforce best practices for maintainable PHP.",
-        "Architect RESTful APIs and system integrations.",
-        "Drive automation and deployment processes."
-      ]
-    },
-    {
-      "company": "IPO Solutions",
-      "position": "Senior Software Engineer",
-      "start": "Feb 2022",
-      "end": "Feb 2024",
-      "location": "Weingarten, Germany",
-      "workType": "On-site",
-      "description": "Designed and implemented complex backend features. Mentored teammates, contributed to infrastructure improvements, and collaborated on system design and integrations.",
-      "responsibilities": [
-        "Build and optimize backend services.",
-        "Lead architecture discussions and integrations.",
-        "Mentor developers through code reviews and pair programming.",
-        "Ensure reliable deployments using Docker and Kubernetes."
-      ]
-    },
     {
       "company": "Dubai Municipality",
       "position": "Senior Automation Consultant",
