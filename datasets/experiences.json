@@ -1,3 +1,5 @@
+{
+  "experience": [
     {
       "company": "Dubai Municipality",
       "position": "Senior Automation Consultant",
@@ -7,18 +9,17 @@
       "workType": "On-site",
       "description": "In this leadership role, I was responsible for driving end-to-end automation initiatives, from strategic planning to successful delivery. I led and mentored a team of automation developers, ensuring high standards in solution design, development, and deployment. Working closely with cross-functional business stakeholders, I translated complex requirements into scalable automation strategies that aligned with organizational goals. I defined project scopes and timelines, monitored progress, and ensured timely delivery with measurable impact. Additionally, I maintained detailed documentation (PDDs, SDDs, design specs), collaborated with QA teams for solution validation, and resolved technical challenges to ensure a smooth and efficient automation rollout.",
       "responsibilities": [
-  "Lead and mentor a team of Automation developers, providing guidance and support in executing automation projects",
-  "Design, develop, and implement Automation solutions using industry-leading tools and technologies",
-  "Ensure the successful deployment of automated processes, meeting quality and efficiency standards",
-  "Analyze existing business processes to identify opportunities for automation and improvement",
-  "Collaborate with business stakeholders to gather requirements and define automation objectives",
-  "Define project scope, objectives, and timelines for Automation initiatives",
-  "Track and report on the progress of Automation projects, ensuring they align with organizational goals",
-  "Create and maintain comprehensive documentation for Automation processes, including design specifications, PDD, and SDD",
-  "Collaborate with quality assurance teams to validate Automation solutions",
-  "Resolve technical issues and challenges related to Automation implementation"
-]
-
+        "Lead and mentor a team of Automation developers, providing guidance and support in executing automation projects",
+        "Design, develop, and implement Automation solutions using industry-leading tools and technologies",
+        "Ensure the successful deployment of automated processes, meeting quality and efficiency standards",
+        "Analyze existing business processes to identify opportunities for automation and improvement",
+        "Collaborate with business stakeholders to gather requirements and define automation objectives",
+        "Define project scope, objectives, and timelines for Automation initiatives",
+        "Track and report on the progress of Automation projects, ensuring they align with organizational goals",
+        "Create and maintain comprehensive documentation for Automation processes, including design specifications, PDD, and SDD",
+        "Collaborate with quality assurance teams to validate Automation solutions",
+        "Resolve technical issues and challenges related to Automation implementation"
+      ]
     },
     {
       "company": "RapidData Technologies",
@@ -28,17 +29,16 @@
       "location": "Dubai-UAE",
       "workType": "On-site",
       "description": "In this role, I served as a strategic automation consultant, leading initiatives from process discovery to solution delivery. I facilitated workshops with client SMEs to assess process suitability, identify automation opportunities, and eliminate blockers. I designed and delivered scalable RPA solutions, contributed to prototypes and proof of concepts, and acted as the main technical point of contact for configuration issues. My work extended to building reusable components, supporting Agile transformations, and helping establish Automation Centers of Excellence. I also played a key role in business analysis, system design, and change management—bridging the gap between business needs and technical execution to drive impactful automation outcomes.",
-     "responsibilities": [
-  "Running workshops with client SMEs to understand the end-to-end process while identifying any automation blockers and the suitability of the process for automation",
-  "Delivering RPA solutions and being the first point of contact in case of any configuration issues for the team",
-  "Contributing to RPA prototypes and Proofs of Concept",
-  "Articulating the vision and value proposition to senior-level clients regarding process and automation transformation",
-  "Identification and assessment of potential processes for RPA",
-  "Supporting the development of an Automation Center of Excellence to align with clientʼs strategic priorities, develop performance/risk reporting, and support the transition to a new service delivery model (e.g., Agile)",
-  "Designing, building, developing, and testing new digital products along with efficient reusable components, scripts, and frameworks",
-  "Working on business analysis, system design, business process re-engineering, and change management"
-]
-
+      "responsibilities": [
+        "Running workshops with client SMEs to understand the end-to-end process while identifying any automation blockers and the suitability of the process for automation",
+        "Delivering RPA solutions and being the first point of contact in case of any configuration issues for the team",
+        "Contributing to RPA prototypes and Proofs of Concept",
+        "Articulating the vision and value proposition to senior-level clients regarding process and automation transformation",
+        "Identification and assessment of potential processes for RPA",
+        "Supporting the development of an Automation Center of Excellence to align with clientʼs strategic priorities, develop performance/risk reporting, and support the transition to a new service delivery model (e.g., Agile)",
+        "Designing, building, developing, and testing new digital products along with efficient reusable components, scripts, and frameworks",
+        "Working on business analysis, system design, business process re-engineering, and change management"
+      ]
     },
     {
       "company": "Arab Bank",
@@ -49,18 +49,17 @@
       "workType": "On-site",
       "description": "As an RPA Developer at Arab Bank, I led the full lifecycle of automation projects—from requirement gathering and feasibility analysis to development, deployment, and post-production support. Working closely with business stakeholders, I translated complex processes into efficient automated workflows. I also managed live environments, handled exception monitoring, and ensured the stability and scalability of RPA solutions across the organization.",
       "responsibilities": [
-  "Design, develop, and test automation workflows",
-  "Deploy RPA components",
-  "Work directly with stakeholders to capture business requirements and translate them into technical specifications",
-  "Support deployments and troubleshoot production issues",
-  "Run processes, analyze process logs",
-  "Administrate the live environment daily",
-  "Manage live technical environments on a daily basis",
-  "Manage and investigate exceptions",
-  "Perform feasibility checks on the applications used and present demos by creating high-level POCs",
-  "Prepare SDD and PDD based on client requirements and obtain approval before development phase"
-]
-
+        "Design, develop, and test automation workflows",
+        "Deploy RPA components",
+        "Work directly with stakeholders to capture business requirements and translate them into technical specifications",
+        "Support deployments and troubleshoot production issues",
+        "Run processes, analyze process logs",
+        "Administrate the live environment daily",
+        "Manage live technical environments on a daily basis",
+        "Manage and investigate exceptions",
+        "Perform feasibility checks on the applications used and present demos by creating high-level POCs",
+        "Prepare SDD and PDD based on client requirements and obtain approval before development phase"
+      ]
     },
     {
       "company": "Arab Bank",
