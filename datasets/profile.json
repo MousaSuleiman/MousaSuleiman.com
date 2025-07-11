@@ -1,6 +1,6 @@
 {
   "name": "Mousa Suleiman",
-  "tagline": "Software Engineer | Backend Specialist | Development Team Lead",
+  "tagline": "Senior Automation Consultant | Automation Specialist | Ddigital transformation",
   "headers": {
     "about": "About Me",
     "experience": "Experience",
@@ -9,15 +9,14 @@
     "activity": "GitHub Activity"
   },
   "about": {
-    "text": "As a Development Team Lead with over 7 years of experience, I specialize in backend technologies, primarily PHP. My expertise lies in building robust web applications, integrating third-party systems, and architecting RESTful APIs. I emphasize clean, maintainable code and best practices while guiding my team to deliver high-quality solutions. With a strong foundation in DevOps, I automate workflows, manage infrastructure, and ensure efficient deployments. I'm passionate about leveraging technology to create scalable solutions and always open to new challenges."
+    "text": "I am a highly motivated and results-driven automation professional with a proven track record in delivering impactful and scalable solutions. With extensive experience in driving end-to-end automation initiatives, I specialize in optimizing business processes, enhancing operational efficiency, and leading cross-functional teams. I am confident that my skills and experience align well with the Automation Lead role, and I am eager to contribute to your team’s success and digital transformation journey."
   },
   "terminal": {
     "user": "yousef",
     "host": "admin"
   },
   "links": {
-    "github": "https://github.com/saedyousef",
-    "linkedin": "https://www.linkedin.com/in/saedyousef",
-    "repo": "https://github.com/saedyousef/saedyousef.com/stargazers"
+    "github": "https://github.com/mousasuleiman",
+    "linkedin": "www.linkedin.com/in/mousa-suleiman-b64859104"
   }
 }
