@@ -1,75 +1,60 @@
 {
   "skills": {
-    "Skills": [
-      "Object-Oriented Programming (OOP)",
-      "Design Patterns",
-      "RESTful Web Services",
-      "API Development",
-      "Back-End Web Development",
-      "Full-Stack Development",
-      "Databases",
-      "Indexing",
-      "Shell scripting",
-      "DevOps",
-      "Workflow Automation",
-      "Code Review",
-      "Analytical Skills",
-      "Team Leadership",
-      "Spoken English"
-    ],
-    "IDEs & Text Editors": [
-      "VS Code",
-      "PhpStorm",
-      "Sublime Text",
-      "Vim"
-    ],
+  "Skills": [
+  "UiPath",
+  "ABBYY",
+  "Orchestrator",
+  "RPA LifeCycle",
+  "SQL",
+  "Oracle",
+  "Agile Development Process",
+  "Azure",
+  "SDLC",
+  "Network Troubleshooting",
+  "Testing",
+  "JSON and XML",
+  "Java SE",
+  "Windows Server",
+  "CTFL",
+  "ISTQB",
+  "Bug Fixes",
+  "Client Requirements",
+  "Document Understanding",
+  "Project Specifications",
+  "Agentic AI",
+  "AI"
+],
+"IDEs & Text Editors": [
+  "UiPath Studio",
+  "ABBYY FlexiCapture Designer",
+  "Visual Studio Code (VS Code)",
+  "Visual Studio",
+  "SQL Server Management Studio (SSMS)",
+  "Oracle SQL Developer",
+  "Postman",
+  "n8n Editor UI",
+  "Azure DevOps",
+  "PyCharm"
+],
     "Software Methodologies": [
       "Agile",
       "Scrum",
       "Continuous Integration and Continuous Delivery (CI/CD)"
     ],
     "Cloud Providers": [
-      "AWS ECS",
-      "AWS CDK",
-      "AWS CloudFormation",
-      "AWS EventBridge",
-      "AWS CodeCommit",
-      "AWS CodePipeline",
-      "AWS CodeBuild",
-      "DigitalOcean",
-      "Rancher Kubernetes Management"
-    ],
-    "Development Tools & Frameworks": [
-      "Laravel",
-      "Laravel Lumen",
-      "CakePHP",
-      "Composer",
-      "Docker",
-      "Git",
-      "GitHub Actions",
-      "Kubernetes",
-      "n8n"
+  "Microsoft Azure",
+  "Google Cloud Platform (GCP)",
+  "n8n Cloud",
+  "Microsoft Power Platform"
     ],
     "Databases & Search": [
       "MySQL",
       "SQLite",
-      "Redis",
-      "Algolia"
-    ],
-    "Web & Front-End Technologies": [
-      "HTML",
-      "Cascading Style Sheets (CSS)",
-      "SASS",
-      "JavaScript",
-      "jQuery",
-      "MVC"
+      "Oracle"
     ],
     "Operating Systems & Environments": [
       "Linux",
-      "Ubuntu",
-      "Unix",
-      "Nginx",
-      "Apache"
+      "Windows Server"
     ],
     "Project & Task Management": [
       "ClickUp",
